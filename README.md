@@ -29,7 +29,7 @@
 - 💼 WorldQuant | IBM | PIMCO | Deloitte | DBS Bank
 - 📍 Based in New York | ✉️ [linshuyan2016@gmail.com](mailto:linshuyan2016@gmail.com)
 -  ✉️ Reach me: [linshuyan2016@gmail.com](mailto:linshuyan2016@gmail.com) 
-- 🌐 Websites:[Personal Website](https://linshuyan2016.wixsite.com/website) | [LinkedIn](https://www.linkedin.com/in/linshuyan2016) | [GitHub](https://github.com/YOUR_USERNAME)
+- 🌐 Websites:[Personal Website](https://linshuyan2016.wixsite.com/website) | [LinkedIn](https://www.linkedin.com/in/shu-yen-lin-090340220/) | [GitHub](https://github.com/SusanLin0426)
 - 🧠 Interests: Quant Trading, ML for Finance, Core Banking Systems  
 ---
 
