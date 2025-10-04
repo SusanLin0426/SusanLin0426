@@ -1,5 +1,7 @@
 <h1 align="left">Hi, I'm Susan Lin 👋</h1>
 
+
+
 <p>
   <img alt="Languages" src="https://img.shields.io/badge/Languages-Python%20|%20SQL%20|%20VBA%20|%20R%20|%20Stata-0d1117?style=for-the-badge">
   <img alt="Tools" src="https://img.shields.io/badge/Tools-Postman%20|%20Excel%20|%20Prophet-0d1117?style=for-the-badge">
@@ -22,7 +24,7 @@
 </p>
 
 
----
+
 - 🎓 NYU MSIS — grad-level CS @ Courant & MBA courses @ Stern | NTU Fin, GPA 4.21/4.3
 - 💼 WorldQuant | IBM | PIMCO | Deloitte | DBS Bank
 - 📍 Based in New York | ✉️ [linshuyan2016@gmail.com](mailto:linshuyan2016@gmail.com)
