@@ -42,20 +42,20 @@ I’m passionate about **FinTech engineering** and **financial systems**, levera
 ---
 ### 💼 Experience Highlights
 
-**WorldQuant — Research Consultant** _(Taipei, Oct 2023 – Aug 2025)_  
+**WorldQuant — Research Consultant** _(Oct 2023 – Aug 2025)_  
 • Designed and implemented Python-based trading strategies and predictive models for alpha generation  
 • Optimized algorithms using U.S. equity data, with automated visualization and metric retrieval via the BRAIN platform  
 
-**IBM — Associate Application Consultant Intern** _(Taipei, Jul 2024 – Aug 2024)_  
+**IBM — Associate Application Consultant Intern** _(Jul 2024 – Aug 2024)_  
 • Developed backend core banking features using Java Spring Boot and Maven  
 • Automated API workflows with Python + Postman, cutting testing time by 80%  
 
-**PIMCO — Account Analyst Intern** _(Taipei, Jun 2023 – Aug 2023)_  
+**PIMCO — Account Analyst Intern** _(Jun 2023 – Aug 2023)_  
 • Built VBA / Python / Bloomberg-based automation tools for asset management reporting  
 
-**DBS Bank — Technology & Operations Intern** _(Taipei, Jul 2022 – Aug 2022)_  
+**DBS Bank — Technology & Operations Intern** _(Jul 2022 – Aug 2022)_  
 • Conducted chatbot UAT and CSAT analyses under the Citibank Merger Project  
 
-**Deloitte — Actuarial and Insurance Solutions Intern** _(Taipei, Jul 2021 – Sep 2021)_  
+**Deloitte — Actuarial and Insurance Solutions Intern** _(Jul 2021 – Sep 2021)_  
 • Developed actuarial models in VBA / Prophet and implemented IFRS 17 standards  
 
