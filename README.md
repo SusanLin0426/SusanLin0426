@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=36&duration=2200&pause=800&vCenter=true&width=720&color=57068C&background=FFFFFF00&lines=Hi%2C+I'm+Susan+Lin!;你好%EF%BC%8C我是+Susan!;Welcome+to+my+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 
+
 <!-- Badges row -->
 <p>
   <img alt="Languages" src="https://img.shields.io/badge/LANGUAGES-Python%20|%20SQL%20|%20VBA%20|%20R%20|%20Stata-0d1117?style=for-the-badge&labelColor=57068C">
