@@ -21,8 +21,8 @@
 </p>
 
 
-- 🎓 NYU MSIS — grad-level CS @ Courant & MBA courses @ Stern, 2025-2027 | NTU Fin, GPA 4.21/4.3, 2020-2023
-- 💼 WorldQuant | IBM | PIMCO | Deloitte | DBS Bank
+- 🎓 NYU MSIS — grad-level CS @ Courant & MBA courses @ Stern _(2025 – 2027)_   |  NTU Fin, GPA 4.21/4.3 _(2020 – 2023)_ 
+- 💼 WorldQuant  |  IBM  |  PIMCO  |  Deloitte  |  DBS Bank
 - 📍 Based in New York
 - ✉️ Reach me: [linshuyan2016@gmail.com](mailto:linshuyan2016@gmail.com) 
 - 🌐 Websites: [Personal Website](https://linshuyan2016.wixsite.com/website) | [LinkedIn](https://www.linkedin.com/in/shu-yen-lin-090340220/) | [GitHub](https://github.com/SusanLin0426)
