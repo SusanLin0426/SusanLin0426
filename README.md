@@ -1,4 +1,6 @@
-<h1 align="left">Hi, I'm Susan Lin 👋</h1>
+<div style="height:10px; background:#57068C; border-radius:8px; margin-bottom:14px;"></div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=36&duration=2200&pause=800&vCenter=true&width=720&color=57068C&background=FFFFFF00&lines=Hi%2C+I'm+Susan+Lin!;你好%EF%BC%8C我是+Susan!;Welcome+to+my+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
 
