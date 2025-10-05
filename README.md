@@ -2,29 +2,22 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=36&duration=2200&pause=800&vCenter=true&width=720&color=57068C&background=FFFFFF00&lines=Hi%2C+I'm+Susan+Lin!;你好%EF%BC%8C我是+Susan!;Welcome+to+my+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-
-
+<!-- Badges row -->
 <p>
-  <img alt="Languages" src="https://img.shields.io/badge/Languages-Python%20|%20SQL%20|%20VBA%20|%20R%20|%20Stata-0d1117?style=for-the-badge">
-  <img alt="Tools" src="https://img.shields.io/badge/Tools-Postman%20|%20Excel%20|%20Prophet-0d1117?style=for-the-badge">
+  <img alt="Languages" src="https://img.shields.io/badge/LANGUAGES-Python%20|%20SQL%20|%20VBA%20|%20R%20|%20Stata-0d1117?style=for-the-badge&labelColor=57068C">
+  <img alt="Tools" src="https://img.shields.io/badge/TOOLS-Postman%20|%20Excel%20|%20Prophet-0d1117?style=for-the-badge&labelColor=57068C">
 </p>
 
 
+<!-- Stats cards  -->
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=SusanLin0426&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=radical&hide_border=true" />
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=SusanLin0426&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=midnight-purple&hide_border=true&custom_title=SusanLin's%20GitHub%20Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusanLin0426&layout=donut&langs_count=8&theme=radical&hide=jupyter%20notebook&hide_border=true" />
-
-
-    
+    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusanLin0426&layout=donut&langs_count=8&hide=jupyter%20notebook&theme=midnight-purple&hide_border=true&custom_title=Most%20Used%20Languages" />
   </a>
 </p>
-
-<p>
-</p>
-
 
 
 - 🎓 NYU MSIS — grad-level CS @ Courant & MBA courses @ Stern | NTU Fin, GPA 4.21/4.3
@@ -32,8 +25,11 @@
 - 📍 Based in New York
 - ✉️ Reach me: [linshuyan2016@gmail.com](mailto:linshuyan2016@gmail.com) 
 - 🌐 Websites: [Personal Website](https://linshuyan2016.wixsite.com/website) | [LinkedIn](https://www.linkedin.com/in/shu-yen-lin-090340220/) | [GitHub](https://github.com/SusanLin0426)
-- 🧠 Interests: Quant Trading, ML for Finance, Core Banking Systems  
+- 🧠 Interests: Quant Trading, ML for Finance, Core Banking Systems
+
+
 ---
+
 
 ### 💡 About Me
 I am pursuing my **Master’s in Information Systems** at **New York University**, a joint program between the **Courant Institute of Mathematical Sciences** and the **Stern School of Business**, where I take graduate-level **Computer Science** and **MBA** courses.  
