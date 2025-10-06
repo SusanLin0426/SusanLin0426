@@ -16,7 +16,7 @@
     <img height="175" src="https://github-readme-stats.vercel.app/api?username=SusanLin0426&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=midnight-purple&hide_border=true&custom_title=SusanLin's%20GitHub%20Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusanLin0426&layout=donut&langs_count=8&theme=midnight-purple&hide_border=true&custom_title=Most%20Used%20Languages" />
+    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusanLin0426&layout=donut&langs_count=8&theme=midnight-purple&hide_border=true&hide=jupyter%20notebook&custom_title=Most%20Used%20Languages" />
   </a>
 </p>
 
