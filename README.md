@@ -33,14 +33,14 @@
 ---
 
 
-### 💡 About Me
+### About Me
 I am pursuing my **Master’s in Information Systems** at **New York University**, a joint program between the **Courant Institute of Mathematical Sciences** and the **Stern School of Business**, where I take graduate-level **Computer Science** and **MBA** courses.  
 My background in **Finance** from **National Taiwan University** and hands-on experience at **WorldQuant, IBM, PIMCO, Deloitte, and DBS Bank** allow me to bridge quantitative finance and system engineering.
 
 I’m passionate about **FinTech engineering** and **financial systems**, leveraging technologies such as **Python, SQL, Java, and R** to develop scalable and intelligent solutions.
 
 ---
-### 💼 Experience Highlights
+### Experience Highlights
 
 **WorldQuant — Research Consultant** _(Oct 2023 – Aug 2025)_  
 • Designed and implemented Python-based trading strategies and predictive models for alpha generation  
