@@ -27,8 +27,7 @@
 - 📍 Based in New York
 - ✉️ Reach me: [linshuyan2016@gmail.com](mailto:linshuyan2016@gmail.com) 
 - 🌐 Websites: [Personal Website](https://linshuyan2016.wixsite.com/website) | [LinkedIn](https://www.linkedin.com/in/shu-yen-lin-090340220/) | [GitHub](https://github.com/SusanLin0426)
-- 🧠 Interests: Quant Trading, ML for Finance, Core Banking Systems
-
+- 🧠 Interests: Data Engineering, FinTech Systems, AI for Finance
 
 ---
 
