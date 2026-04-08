@@ -22,7 +22,7 @@
 
 
 - 📖 NYU MSIS — grad-level CS @ Courant & MBA courses @ Stern  _(2025 – 2027)_ 
-- 🎓 NTU BBA in Finance — GPA 4.21 / 4.3  _(2020 – 2023)_ 
+- 🎓 NTU BBA in Finance — GPA 4.21 / 4.3  _(2019 – 2023)_ 
 - 💼 WorldQuant  |  IBM  |  PIMCO  |  Deloitte  |  DBS Bank
 - 📍 Based in New York
 - ✉️ Reach me: [linshuyan2016@gmail.com](mailto:linshuyan2016@gmail.com) 
